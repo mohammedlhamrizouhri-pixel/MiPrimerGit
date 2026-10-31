@@ -6,7 +6,7 @@ Proyecto realizado en el modulo de Entornos de Desarrollo.
 Aprender a utilizar Git y GitHub para controlar las versiones de un proyecto Java. 
  
 ## Autor 
-Tu Nombre Apellidos 
+Mohammed Lhamri Zouhri 
  
 ## Contenido 
 - Programa HolaGit.java 
