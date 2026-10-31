@@ -1,0 +1,10 @@
+# Archivos compilados de Java 
+*.class 
+# Archivos temporales 
+*.tmp 
+# Archivos de registro 
+*.log 
+# Carpetas generadas por Maven 
+target/ 
+# Archivos con informacion confidencial 
+.env 
